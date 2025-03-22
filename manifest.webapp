@@ -1,0 +1,29 @@
+{
+  "version": "1.0.1",
+  "name": "Sultan Gem Match 2",
+  "description": "Use the D-Pad to move around the grid and Middle/5 to interact with the selected gem. You must match 3 or more gems of the same color together and collect the required gems before the time runs out, in order to win each of the new 100 total levels. Connect the gems and test your matching skills in this fun puzzle game!",
+  "type": "web",
+  "theme_color": "#D4145A",
+  "permissions": {
+    "mobiledata":{},
+    "wifidata":{}
+  },
+  "fullscreen": "true",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/56.png",
+    "112": "/112.png"
+  },
+  "developer": {
+    "name": "Black Sheep Games",
+	  "url": "http://www.blacksheepgames.gr"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Sultan Gem Match 2",
+      "subtitle": "Help the sultan to clear the 100 new levels!",
+      "description": "Use the D-Pad to move around the grid and Middle/5 to interact with the selected gem. You must match 3 or more gems of the same color together and collect the required gems before the time runs out, in order to win each of the new 100 total levels. Connect the gems and test your matching skills in this fun puzzle game!"
+    }
+  },
+  "default_locale": "en-US"
+}

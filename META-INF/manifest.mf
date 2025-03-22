@@ -1,0 +1,253 @@
+Manifest-Version: 1.0
+
+Name: html5game/sndTutorial.mp3
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 7TXnW21K6k6A5pJtYUEziA==
+SHA1-Digest: WoMAlWLyBgfEYvQkdhgMouH3wIY=
+SHA256-Digest: aN98QKlh6wDrK35hFGk9lQzqphFSzs4C5DtUqJoolls=
+
+Name: html5game/sndGameover.mp3
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: SZZYU2ReYY8dFeJYpqudVg==
+SHA1-Digest: 7vNGcn+uzq2o/VZkG9A5Ef1rs1o=
+SHA256-Digest: 2ly9dCtyVXfgyoWtGJZbQsCemueu2GD4PXHiIKkydB8=
+
+Name: html5game/sndClick.mp3
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 57p1RK5meDzoOpViKmgQWA==
+SHA1-Digest: qF8ZPVEJQWq39E2l+/KdkFiMRiA=
+SHA256-Digest: HSiPjWc859Lpli9/SarXIvuXNGKgmCvk10pv79lvJjk=
+
+Name: html5game/slproj248.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: bj4Am/wngTDU7DTiEA0NBg==
+SHA1-Digest: hZpGFZeuYV6dqF0QnMiA1UKzhJ4=
+SHA256-Digest: mI1d9spmxYwPMjxGgQUy3bEEGNjSPj3fPNBU1ILfJc4=
+
+Name: html5game/sndLevelClear.ogg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: eoumLDcSB+DUIbIbg5VB2Q==
+SHA1-Digest: ChdyDt7v+tlnMg+IDuhUGhh6qmE=
+SHA256-Digest: T9LwIWXTb+vgFcc8hEmE87ME8NFeaGqCGq1FV+bCwFk=
+
+Name: html5game/vph_gmdevblogweblocalstorage.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: +CPJdV7SZ7zkMliXZqKQ9w==
+SHA1-Digest: UpxTZF+x3K+wd2ggJ8XtZ0T5k3g=
+SHA256-Digest: VRWnQ5q6sXmixScqZP4OaYlC/Xg06kmvyHmhsX69LSA=
+
+Name: html5game/mMain.mp3
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: y4/Dtv1b7YB6SAQk1BjYKg==
+SHA1-Digest: 8fULQRkLS1L1STdIb7LsqcSa3DI=
+SHA256-Digest: vvS2rs/HvgL5zjscVY+U48/F6McjSQp4fO9ue0/U/Ps=
+
+Name: html5game/sndTimeRunningOut.mp3
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 1KrZP1PT4PPVcJsEdn5Pmw==
+SHA1-Digest: An5Z/GPidvWHxJjE9HxDC8PyQUg=
+SHA256-Digest: TYbPJmsasced6zZT2wcG8EM2WCm4RSqX2d4ijF+LKIw=
+
+Name: html5game/kaiads.min.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: FRArPkVhVwGgCARlTNnT5g==
+SHA1-Digest: 3L96u+2cCS4dyeeifxTJ79Tq7mQ=
+SHA256-Digest: Ge2Rqpb+9o4fYC3y9kkeBtGMLxK8siGIUH4m7+u3R5w=
+
+Name: html5game/sndGemFilled.mp3
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: ojiW7RaTi5h8C+8WwMc/6A==
+SHA1-Digest: a4lShj3IqEMyNv1WFdcbLlSKZnU=
+SHA256-Digest: 3gHJsHNZ3ABYz1ND+Tla0D4R7cty4EhxtZr5gWpTcWA=
+
+Name: html5game/uph_howler.core.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: camskW7gFcRjMLnCBWHutg==
+SHA1-Digest: afhnz3BXA7i6lOurWO1/ojslOu4=
+SHA256-Digest: HPIp9Nfb4fQnIg+A7qYcvqVijhU92RDRyx2qgudR0fk=
+
+Name: html5game/yph_KaiADs.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: OPN6bKUPmfpIQ8n6oofU/A==
+SHA1-Digest: R2MB5TfaG2hf8ayn7id22UAoimA=
+SHA256-Digest: K+gcwqx0rQtKUeQ5f/Jho2lIbyYBQH2/98xJEnMUWNw=
+
+Name: html5game/sndTimeRunningOut.ogg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 0zqarmTOHlKDQ6aTn926Xw==
+SHA1-Digest: 53BjLI7H5Fx+wdD6Cfv0b3EHtw4=
+SHA256-Digest: QWoi9sxefVPwVujbaYgaiBn1blWIJVTGiRQ0upP5pI8=
+
+Name: html5game/xph_ImageLoadBar.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: lKRObKGQ2Ijr2Y40mOJQuQ==
+SHA1-Digest: RT/5LyJ/L64GXSnSAD9QowwU+WU=
+SHA256-Digest: CxD43uyr+KapHoPkQM832a+5W+Pu4XTFpaq+yCWPCaM=
+
+Name: html5game/sndWoosh.mp3
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: FUuaPCdV414RxWkBkjDvng==
+SHA1-Digest: NflWn/taOH3TAT0xERitCupK0co=
+SHA256-Digest: ck+ArXC7h0NUeMuPMIntJzdeHXXZwNjflA/eUrM61VE=
+
+Name: html5game/sndPop.mp3
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: ThHd6xlIPPJL5QULqAoaSA==
+SHA1-Digest: qKWvrLrH75pBTUswtgX4YQxYixI=
+SHA256-Digest: BDwp9Qllk27oS38U5atemrLYWooYH9AF+FOgpKZ8n4s=
+
+Name: html5game/sndGemMatch.mp3
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: BLTyRL/OMZuNNggnpbgxiw==
+SHA1-Digest: 2Nx+qu9VoR7MPZgUUXBYYN4bwj8=
+SHA256-Digest: +uwTKUi3F8Ykv4X0pnHOsxuWp520V7a2rp5o60PUMvM=
+
+Name: html5game/sndGemFill.mp3
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: KlkRUaEsI1ycLCooX5AlFg==
+SHA1-Digest: 4TbZ7UqNaWwqVOA5bpU6GLMQYj0=
+SHA256-Digest: 6h3GEjODXYQgMAUTsEfApqThpca25BZg7Rp9qdPfe4s=
+
+Name: html5game/sndGemFilled.ogg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 250fIYI8pIWAJZYoTfMuow==
+SHA1-Digest: ChIxKk+3CEVGG5N5CWlJhEicfWE=
+SHA256-Digest: PqVVA73vuHLlmy9Cwp2nD+F+Y1kYGYfaT07dqUygKX4=
+
+Name: html5game/sndTutorial.ogg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Lq0QKJr1okyqIjJGZjJQRQ==
+SHA1-Digest: /eq8DcXtmhJt8zbOLT5yKEbujMY=
+SHA256-Digest: /LDs8UVXdJk6JGWd/15JQjFRpE5+tGc6Bmgv+H0Xi1s=
+
+Name: html5game/sndGameover.ogg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: yt4f/aRqiXdWndFZlUnFnw==
+SHA1-Digest: uWYh2jiaiS798MJefO9Ct3Eab2U=
+SHA256-Digest: EMZdvubwXcCZqD7kIt87UbbZ94e+FBhDR43s+vexBQo=
+
+Name: html5game/tph_GMS_howler_audio.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: RbbEc71p3qU+hCOH64WhaA==
+SHA1-Digest: oZzDw03wsT/HP5NLOUlxt7qTRRc=
+SHA256-Digest: 8/mQtYAw8IhTRG3Sx7nruhQb9ncycJUtbkYr8cLH0p0=
+
+Name: html5game/sndGemFill.ogg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: S1MW9o8Q5hD//a94PRUrnQ==
+SHA1-Digest: bW5U6FEreD/TGplYILGBTkjmi8w=
+SHA256-Digest: 7Af7NVH7u+wVlGB9NBs5G6MwORrsFZaKNo72QRsu74E=
+
+Name: html5game/indexKaiOS.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 3Fk3S81qvGjpxNFzECKhqQ==
+SHA1-Digest: B8oaoxOUERSrj12K0N36Vklthvw=
+SHA256-Digest: AKDpICOEFoSkalLjVMY5eMW344yCmZko1L2wqk3JzrI=
+
+Name: html5game/mMain.ogg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: /+jMLw7T2XQbtydNxGQ2JA==
+SHA1-Digest: Lo8HJAqO64ZVwfoxu+ZENwOstYg=
+SHA256-Digest: FftG9u0DabbuXdT6dLGFm84lStQJdUNkg1Tkot5iKDs=
+
+Name: html5game/wph_Mhandler.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 8tiEb1X8tHjIhsq2HC7Cow==
+SHA1-Digest: beBRE1mT5wbh6PzTrRABwxU19sw=
+SHA256-Digest: JBYBhnIu9+68CFwjqd3QfavkI/Uyc3ovwFjv7zyi0QI=
+
+Name: html5game/splash.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: wIqg3iknQpFpbcuHBT9tNQ==
+SHA1-Digest: JoJBv3A2/W7ItVgUiVUNqDlak8k=
+SHA256-Digest: jTB2UcInge8IpkT6Afw/OChJAVz07UTLMwV6p34fKl0=
+
+Name: html5game/sndClick.ogg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: XbeBdiKA5NuJOOjnECASOg==
+SHA1-Digest: f2Aj8vY0RllDR77f8JdxFL52M1s=
+SHA256-Digest: 9l+l4wHm86lRzvQkKhWBsASYfukkC+sBAxR1Ql/qlBI=
+
+Name: html5game/sndLevelClear.mp3
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: fd04JO0oeU1GZ6vgVYzpUw==
+SHA1-Digest: GBD6eIPaeEh3Ykhluk1AsYvW1Jc=
+SHA256-Digest: +a44zMwC/8a011yaG+0znFrhgCXaShzgDxUPsSheIpg=
+
+Name: html5game/sndWoosh.ogg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: OaTBzZvgDQd5T5HBHCcQHw==
+SHA1-Digest: 1E+hr0Y7IUFPwlRCsCObwXiRAz8=
+SHA256-Digest: gf7a/91C6HLQxSiFTQqqMTixBg0RzDxEjWMtobOkIg4=
+
+Name: html5game/sndPop.ogg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: zXqXBuyHMawVIUZdUozCGA==
+SHA1-Digest: 4thy73AKJ0OsJQWWfLw0pDbIpw0=
+SHA256-Digest: YdURwP92lA5nqkGJ5x56fliq0+RlruOslNryMTYgoNY=
+
+Name: html5game/slproj248_texture_0.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: YEP1DyR6f5GD5JYHgiYtEQ==
+SHA1-Digest: NvLqzzXoTmsP7IXW7jR8YD2QIdI=
+SHA256-Digest: fGse0FEbnWDCuBbcUpXa8qNpml1h6BjkCkAujDX/dus=
+
+Name: html5game/sndGemMatch.ogg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 3nJ7Y1cMART17xHBRhWNrg==
+SHA1-Digest: Oi2I8+QLuAMH0q95WjurpxHpfA0=
+SHA256-Digest: Kg1iHdore+PFjeXxayngGneRvU1/Xd6PCnv0wIrJjM4=
+
+Name: 56.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: N6+wyt6ZHAekgthUEc7ebw==
+SHA1-Digest: RPBIw8yR/2YK2XThjLlgaMayAcw=
+SHA256-Digest: kJk5AqUETfL5nyz5lICM86MykZXTk6A4EmxEwflwpfI=
+
+Name: manifest.webapp
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: opUxNa0dc4U1wze68Fcv4w==
+SHA1-Digest: qYDsE3uApB2WdmkRXFapa3Q1boU=
+SHA256-Digest: VD00tcXwdyPsTBzxFyT46e9gT+EaNO+oWGFVSb3oKR4=
+
+Name: options.ini
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 7mHPxvSDl88o149y0rnAnQ==
+SHA1-Digest: fpiI/1N2SVTwq998YrwwDmBbjuE=
+SHA256-Digest: IJBthQABAwb3m1QvKz4KLT58slqz+JmAr7sodSemBic=
+
+Name: .KaiAds.appinfo.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: m0kY1ea9iXmdbm6U1PU1iw==
+SHA1-Digest: xcGl04jGrtLMZEf/dPUbKDfnZCc=
+SHA256-Digest: OAilEiml/3diPZimIT/WslgIDsxI6luota6r6u5tbmo=
+
+Name: favicon.ico
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 5jqR2z7wb3ZRxu14eEDf2g==
+SHA1-Digest: lHBfjpOKmsJejwyV3ci9Gg8tm0s=
+SHA256-Digest: UXtrjmwOjRkMBp+0J/7USjpy5n3nVzZXb87iJIAfvNA=
+
+Name: __MACOSX/._manifest.webapp
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: WdvgY2WhP2cb+/C2lC6g4Q==
+SHA1-Digest: MGxsUqMaab7/QjFUgHetIrM67r0=
+SHA256-Digest: +FnmF8Fz2ieIdbWR3dKyVvNMEkUObxLN8QahrOIwtg0=
+
+Name: 112.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: kNIbhYd5J1DnWKTkMa9azg==
+SHA1-Digest: u1Bd/iHUVi2iWLxhF67QG0lyMp0=
+SHA256-Digest: lQY6ey/Nvc2f6IJfuJBmtNtqFZW4nGxr9NgE1vOh3WM=
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 3Fk3S81qvGjpxNFzECKhqQ==
+SHA1-Digest: B8oaoxOUERSrj12K0N36Vklthvw=
+SHA256-Digest: AKDpICOEFoSkalLjVMY5eMW344yCmZko1L2wqk3JzrI=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: xPin2gWHvPC84CETD2H6Jg==
+SHA1-Digest: QG1hjhnPFWWOHl5H5Jn4BM1A12s=
+SHA256-Digest: IqGGKN6fNP2lOLFur0Rbq4Y/m3wyp8L25HSZ8n6ryO0=
